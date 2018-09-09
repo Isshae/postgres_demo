@@ -1,0 +1,10 @@
+.idea
+out
+*.xml
+*.iml
+*.class
+build/
+
+# for mac users
+.DS_Store
+
